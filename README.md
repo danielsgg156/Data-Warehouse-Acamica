@@ -13,7 +13,7 @@ A continuacion las instrucciones para su utilizacion:
 
 Clonar proyecto desde consola o descargar desde el repositorio:_
 
-git clone https://github.com/xPabloAvilax/Data-Warehouse
+git clone https://github.com/danielsgg156/Data-Warehouse-Acamica.git
 
 ## Instalación 🔧
 
